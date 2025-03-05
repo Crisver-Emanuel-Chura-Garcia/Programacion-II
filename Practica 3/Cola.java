@@ -1,13 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package cola;
-
-/**
- *
- * @author Windows_11
- */
 public class Cola {
     private long[] arreglo;
     private int inicio;
